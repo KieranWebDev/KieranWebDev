@@ -10,7 +10,7 @@ You can reath me on linkedIn through the link below:
 https://www.linkedin.com/in/kieran-gill-b98b38229/
 
 
-**KieranWebDev/KieranWebDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **KieranWebDev/KieranWebDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> -->
