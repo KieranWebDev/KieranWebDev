@@ -6,7 +6,7 @@ I have been an ESL Teacher for the past 8 years, working in over 6 countries. I 
 
 I'm currently learing HTML, CSS and Javascript, as well as dipping my toe into React fundamentals.
 
-You can reath me on linkedIn through the link below:
+You can reach me on linkedIn through the link below:
 https://www.linkedin.com/in/kieran-gill-b98b38229/
 
 
