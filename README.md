@@ -1,6 +1,6 @@
 Hi everyone 👋
 
-I'm about a student on the current School of Code Bootcamp program.
+I'm a student on the current School of Code Bootcamp program.
 
 I have been an ESL Teacher for the past 8 years, working in over 6 countries. I am know looking to make a career-change into tech and am excited about the new opportunities ahead.
 
