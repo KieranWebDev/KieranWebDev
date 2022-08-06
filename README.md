@@ -35,6 +35,7 @@ https://www.linkedin.com/in/kieran-gill-b98b38229/ -->
 
 <a href="https://linkedin.com/in/kieran-gill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kieran gill" height="30" width="40" /></a>
 
+--- 
 
 ### My stats 📝
 
