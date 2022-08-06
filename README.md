@@ -37,7 +37,7 @@ https://www.linkedin.com/in/kieran-gill-b98b38229/ -->
 
 --- 
 
-### My stats 📝
+### My GitHub stats 📝
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kieranwebdev&show_icons=true&theme=tokyonight&count_private=true&show_icons=true" alt="kieranwebdev" /></p>
 
