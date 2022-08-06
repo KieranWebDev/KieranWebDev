@@ -1,4 +1,4 @@
-Hi everyone 👋
+# Hi,I'm Kieran a Software Developer
 
 
 I'm a student on the current School of Code Bootcamp program.
@@ -12,6 +12,10 @@ https://www.linkedin.com/in/kieran-gill-b98b38229/ -->
 
 <!-- 
 <h3 align="center">A passionate frontend developer from India</h3> -->
+
+## My Toolbox 🧰
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kieranwebdev&label=Profile%20views&color=0e75b6&style=flat" alt="kieranwebdev" /> </p>
 
