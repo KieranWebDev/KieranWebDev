@@ -38,7 +38,6 @@ https://www.linkedin.com/in/kieran-gill-b98b38229/ -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KieranWebDev&count_private=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KieranWebDev&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kieranwebdev&label=Profile%20views&color=0e75b6&style=flat" alt="kieranwebdev" /> </p>
 
