@@ -22,9 +22,9 @@ https://www.linkedin.com/in/kieran-gill-b98b38229/ -->
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kieranwebdev" alt="kieranwebdev" /></a> </p> -->
 <h3 align=”left”>
 
-Hi there, I’m <a href=”https://www.yushi.dev/" target=”_blank” rel=”noreferrer”>Yu</a> 👋
 
-  <h3>Make my day and visit my website<a href="https://linkedin.com/in/kieran-gill" target="blank">here!</a></h3>
+
+ ## Make my day and visit my website<a href="https://linkedin.com/in/kieran-gill" target="blank">here!</a>
 
 
 ## Connect with me 🤝
