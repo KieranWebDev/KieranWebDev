@@ -1,4 +1,4 @@
-# Hi,I'm Kieran a Software Developer
+# Hi, I'm Kieran - Software Developer
 
 
 I'm a student on the current School of Code Bootcamp program.
@@ -20,7 +20,11 @@ https://www.linkedin.com/in/kieran-gill-b98b38229/ -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kieranwebdev&label=Profile%20views&color=0e75b6&style=flat" alt="kieranwebdev" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kieranwebdev" alt="kieranwebdev" /></a> </p> -->
+<h3 align=”left”>
+
 Hi there, I’m <a href=”https://www.yushi.dev/" target=”_blank” rel=”noreferrer”>Yu</a> 👋
+
+</h3>
 
 
 ## Connect with me 🤝
