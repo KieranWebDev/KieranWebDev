@@ -34,7 +34,7 @@ https://www.linkedin.com/in/kieran-gill-b98b38229/ -->
 
 ### My stats 📝
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kieranwebdev&" alt="kieranwebdev" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kieranwebdev&show_icons=true&theme=radical" alt="kieranwebdev" /></p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KieranWebDev&show_icons=true&theme=radical)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kieranwebdev&label=Profile%20views&color=0e75b6&style=flat" alt="kieranwebdev" /> </p>
