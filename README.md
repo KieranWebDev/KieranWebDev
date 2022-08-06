@@ -10,8 +10,7 @@ I'm currently learing HTML, CSS and Javascript, as well as dipping my toe into R
 You can reach me on linkedIn through the link below:
 https://www.linkedin.com/in/kieran-gill-b98b38229/
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/KieranWebDev/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KieranWebDev)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
