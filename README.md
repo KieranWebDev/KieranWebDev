@@ -1,6 +1,6 @@
 # Hi, I'm Kieran 
 
-Hi I'm a Front-End Developer and a current student on The School of Code’s 16-week intensive BootCamp. 
+I'm a Front-End Developer and a current student on The School of Code’s 16-week intensive BootCamp. 
 
 Before beginning my journey into Tech I was an English Teacher for 9 years working in over 6 countries. I am now hoping to make a career pivot into the exciting world of tech.
 
