@@ -1,14 +1,25 @@
 # Hi, I'm Kieran 
 
-I'm a Front-End Developer and a current student on The School of Code’s 16-week intensive BootCamp. 
+I'm a Front-End Developer and a recent graduate of The School of Code’s 16-week intensive BootCamp. 
 
 Before beginning my journey into Tech I was an English Teacher for 9 years working in over 6 countries. I am now hoping to make a career pivot into the exciting world of tech.
 
 ## Make my day and visit my website <a href="https://kieran-gill-portfolio.netlify.app/" target="_blank" rel="noreferrer">here!</a>
 
-<!-- ### About me
+### About me
 
-- I began coding during the COVID lockdown and quickly fell in love with it after I managed to center my first div. Since then I have been on an exciting learning journey full of exhilarating peaks and character-building troughs (cant't have one without the other). I am proud of my resilience, grit and determination. I always show up and put in my best effort every day. I understand that consistency is key, as two or three baby steps each day will soon add up to giant gains over time. 
+I fell in love with coding quickly after I centred my first div. Since then I have been on
+an exciting learning journey full of exhilarating peaks and character-building troughs. I
+consider myself to be a resilient person who displays a lot of grit and determination.
+I’m always ready to show up and put in my best effort every day.
+
+My hobbies include running, resistance training, reading, gaming and playing
+fetch with my favourite canine, Dori. I enjoy travelling and exploring new worlds,
+which was part of the reason I became an ESL Teacher. But to be honest, as I get
+deeper into my thirties, my perfect evening often involves lounging on a sofa
+whilst watching a good movie with my girlfriend.
+
+<!--  - I began coding during the COVID lockdown and quickly fell in love with it after I managed to center my first div. Since then I have been on an exciting learning journey full of exhilarating peaks and character-building troughs (cant't have one without the other). I am proud of my resilience, grit and determination. I always show up and put in my best effort every day. I understand that consistency is key, as two or three baby steps each day will soon add up to giant gains over time. 
 
 - I work well in a team and I feel that a lot of the skills I have learned during my teaching career are relevant to working in a tech team. I can create a warm, supportive and friendly atmosphere to work, learn and play in. 
 
