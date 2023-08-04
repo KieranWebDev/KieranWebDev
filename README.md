@@ -5,7 +5,7 @@ I'm a Front-End Developer and a recent graduate of The School of Code’s 16-wee
 Before beginning my journey into Tech I was an English Teacher for 9 years working in over 6 countries. I am now hoping to make a career pivot into the exciting world of tech.
 
 ## Make my day and visit my website <a href="https://kieran-gill-portfolio.netlify.app/" target="_blank" rel="noreferrer">here!</a>
-## You can also view my CV <a href="https://drive.google.com/file/d/1b_4ol3IMjJ-r7TPb5TJQ7Fgvs7G5VFN2/view?usp=sharing" target="_blank" rel="noreferrer">here.</a>
+## You can also view my CV <a href="https://drive.google.com/file/d/1xdQJygcplqkE6tq0k8sehwSrM8GZ66QE/view?usp=sharing" target="_blank" rel="noreferrer">here.</a>
 
 ### About me
 
