@@ -3,8 +3,7 @@
 Driven Frontend Developer with Passion for React, BootCamp Graduate Seeking First Role in Tech
 
 Before beginning my journey into Tech I was an English Teacher for 9 years working in over 6 countries. I am now hoping to make a career pivot into the exciting world of tech.
-
-## Make my day and visit my website <a href="https://kieran-gill-portfolio.netlify.app/" target="_blank" rel="noreferrer">here!</a>
+<!-- ## Make my day and visit my website <a href="https://kieran-gill-portfolio.netlify.app/" target="_blank" rel="noreferrer">here!</a> -->
 ## You can also view my CV <a href="https://drive.google.com/file/d/15RnjY507uYFbueHRdEmRD6pGOIwu5EW8/view?usp=sharing" target="_blank" rel="noreferrer">here.</a>
 
 ### About me
