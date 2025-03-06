@@ -15,10 +15,18 @@ Currently, I'm working at **CyberPeace Institute** as the **sole full-time devel
 
 ---
 
-## 💼 Professional Work (GitLab Contributions)
-🔒 Most of my work is in **private repositories** on **GitLab**, contributing over **100+ merged PRs** on production applications.  
-📌 **CyberPeace Builders Platform** – Built a matchmaking app for NGOs & cybersecurity experts, saving hours of manual work.  
-📌 **Security Assessment Tool** – Developed a React-based tool to help NGOs evaluate risks and strengthen security.
+## 💼 Professional Work (GitLab Contributions)  
+🔒 Most of my work is in **private repositories** on **GitLab**, with over **100+ merged PRs** on production applications.  
+
+📌 **CyberPeace Builders Platform** – Developed a **matchmaking app** that connects **NGOs with cybersecurity experts**, enabling them to identify and resolve security vulnerabilities. This automation significantly reduced manual coordination efforts, saving the **Operations team hours of work each week** while increasing expert and NGO participation.  
+
+📌 **Security Assessment Tool** – Built a **React-based cybersecurity assessment tool** that helps NGOs evaluate risks and receive tailored recommendations. This tool has been fully integrated into the CyberPeace Builders Platform, streamlining security evaluations and **further reducing operational workload**.  
+
+🔗 **Try the free (basic) version**: [Essential Cyber Assessment](https://cpb.ngo/essential-cyberassessment)  
+_(Note: The full version is more advanced and not publicly accessible.)_  
+
+📌 **Public-Facing Website Contributions** – Contributed to the **development and improvement** of various **static pages** on the CyberPeace Builders [official website](https://cpb.ngo/), enhancing UX, accessibility, and performance.  
+
 
 **💡 Proof of Activity:**  
 Here's a snapshot of my GitLab contributions over the past year:
