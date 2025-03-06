@@ -47,7 +47,7 @@ Here’s a snapshot of my GitLab contributions over the past year at my current 
 _(Note: The full version is more advanced and not publicly accessible.)_  
 
 🔹 **The Planets** – A full-stack SPA where users can explore and learn about planets in the Solar System. Built with React, TypeScript, and Supabase.  
-🔗 **Live Demo:** [Coming Soon]  
+🔗 [**Live Demo:**](https://kieran-gill-the-planets-ts.vercel.app/earth)  
 🔗 [**GitHub Repo:**](https://github.com/KieranWebDev/ThePlanets-TypeScript)
 
 🔹 **Untrodden Travel App** – A **collaborative final project** from School of Code that helps travelers **discover and plan trips to lesser-known destinations**. Built with Next.js, Node.js, and PostgreSQL.  
