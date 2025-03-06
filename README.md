@@ -38,10 +38,21 @@ Here's a snapshot of my GitLab contributions over the past year:
 
 ---
 
-## 📌 Featured Projects
-🔹 **[Project Name](#)** – (Brief description of impact, stack, and challenges solved)  
-🔹 **[Project Name](#)** – (Brief description of impact, stack, and challenges solved)  
-🔹 **[Project Name](#)** – (Brief description of impact, stack, and challenges solved)  
+## 📌 Featured Projects  
+
+🔹 **Security Assessment Tool** – Built a **React-based cybersecurity assessment tool** for my employer that helps NGOs evaluate risks and receive tailored recommendations. Fully integrated into the CyberPeace Builders Platform, this tool **streamlines security evaluations and significantly reduces operational workload**.  
+
+🔗 **Try the free (basic) version**: [Essential Cyber Assessment](https://cpb.ngo/essential-cyberassessment)  
+_(Note: The full version is more advanced and not publicly accessible.)_  
+
+🔹 **[The Planets](#)** – A full-stack SPA where users can explore and learn about planets in the Solar System. Built with React, TypeScript, and Supabase.  
+🔗 **Live Demo:** [Coming Soon]  
+🔗 [**GitHub Repo:**](https://github.com/KieranWebDev/ThePlanets-TypeScript)
+
+🔹 **[Project Name](#)** – (One-line description of impact & tech stack)  
+🔗 [**Live Demo:**] [Coming Soon]  
+🔗 [**GitHub Repo:**](https://github.com/KieranWebDev/ThePlanets-TypeScript)
+
 
 💡 _Want to see more? Check out my [Portfolio](#) (Coming Soon)._
 
