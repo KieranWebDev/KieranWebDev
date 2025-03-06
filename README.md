@@ -50,7 +50,7 @@ _(Note: The full version is more advanced and not publicly accessible.)_
 🔗 [**GitHub Repo:**](https://github.com/KieranWebDev/ThePlanets-TypeScript)
 
 🔹 **Untrodden Travel App** – A **collaborative final project** from School of Code that helps travelers **discover and plan trips to lesser-known destinations**. Built with Next.js, Node.js, and PostgreSQL.  
-🔗 [**GitHub Repo:**] (https://github.com/SchoolOfCode/final-project_front-end-untrodden)  
+🔗 [**GitHub Repo:**](https://github.com/SchoolOfCode/final-project_front-end-untrodden)  
 
 
 <!-- 💡 _Want to see more? Check out my [Portfolio](#) (Coming Soon)._ -->
