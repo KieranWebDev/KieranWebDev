@@ -1,84 +1,60 @@
-# Hi, I'm Kieran 
+# 🚀 Hi, I'm Kieran – Full Stack Developer (React, TypeScript, Golang)
 
-Driven Frontend Developer with Passion for React, BootCamp Graduate Seeking First Role in Tech
+Self-driven **Full Stack Developer** with a **frontend focus** and growing backend expertise in **Golang and PostgreSQL**. I specialize in **building scalable, high-performance applications** and thrive in fast-paced, agile environments.
 
-Before beginning my journey into Tech I was an English Teacher for 9 years working in over 6 countries. I am now hoping to make a career pivot into the exciting world of tech.
-<!-- ## Make my day and visit my website <a href="https://kieran-gill-portfolio.netlify.app/" target="_blank" rel="noreferrer">here!</a> -->
-## You can also view my CV <a href="https://drive.google.com/file/d/15RnjY507uYFbueHRdEmRD6pGOIwu5EW8/view?usp=sharing" target="_blank" rel="noreferrer">here.</a>
+Currently, I'm working at **CyberPeace Institute** as the **sole full-time developer** for a platform that **connects NGOs with cybersecurity experts**. My role spans both frontend and backend, implementing new features, improving UX, and optimizing performance.
 
-### About me
+---
 
-I fell in love with coding quickly after I centred my first div. Since then I have been on
-an exciting learning journey full of exhilarating peaks and character-building troughs. I
-consider myself to be a resilient person who displays a lot of grit and determination.
-I’m always ready to show up and put in my best effort every day.
+## 🔥 What I Do
+✅ **Frontend:** React, TypeScript, Astro, Tailwind  
+✅ **Backend:** Golang, PostgreSQL, REST APIs  
+✅ **DevOps & Tools:** Git, GitLab, CI/CD, Testing  
 
-My hobbies include running, resistance training, reading, gaming and playing
-fetch with my favourite canine, Dori. I enjoy travelling and exploring new worlds,
-which was part of the reason I became an ESL Teacher. But to be honest, these days, my perfect evening often involves lounging on a sofa
-whilst watching a good movie with my girlfriend.
+💡 Passionate about **Clean Code & Maintainability**, **Continuous Learning & Growth**, and **Building Cool Stuff!**
 
-<!--  - I began coding during the COVID lockdown and quickly fell in love with it after I managed to center my first div. Since then I have been on an exciting learning journey full of exhilarating peaks and character-building troughs (cant't have one without the other). I am proud of my resilience, grit and determination. I always show up and put in my best effort every day. I understand that consistency is key, as two or three baby steps each day will soon add up to giant gains over time. 
+---
 
-- I work well in a team and I feel that a lot of the skills I have learned during my teaching career are relevant to working in a tech team. I can create a warm, supportive and friendly atmosphere to work, learn and play in. 
+## 💼 Professional Work (GitLab Contributions)
+🔒 Most of my work is in **private repositories** on **GitLab**, contributing over **100+ merged PRs** on production applications.  
+📌 **CyberPeace Builders Platform** – Built a matchmaking app for NGOs & cybersecurity experts, saving hours of manual work.  
+📌 **Security Assessment Tool** – Developed a React-based tool to help NGOs evaluate risks and strengthen security.
 
-- During my time at the School of Code I have really loved the joys of sharing the wins and small triumphs with my teams and coding partners, as well as supporting each other during the inevitable roadblocks. 
+**💡 Proof of Activity:**  
+Here's a snapshot of my GitLab contributions over the past year:
 
-- My hobbies include running, resistance training, reading, gaming and playing fetch with my favourite canine, Dori. I enjoy travelling and exploring new worlds, but to be honest, as I get deeper into my thirties, my perfect evening simply involves lounging on a sofa whilst watching a good movie with my girlfriend. -->
-
-
-<!-- You can reach me on linkedIn through the link below:
-https://www.linkedin.com/in/kieran-gill-b98b38229/ -->
-
-<!-- 
-<h3 align="center">A passionate frontend developer from India</h3> -->
-
-### My Toolbox 🧰
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-<br>
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 	![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)	 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-<br>
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)  ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### Connect with me 🤝
-
-<a href="https://linkedin.com/in/kieran-gill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kieran gill" height="30" width="40" /></a>
-
---- 
-
-### My GitHub stats 📝
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kieranwebdev&show_icons=true&theme=tokyonight&count_private=true&show_icons=true" alt="kieranwebdev" /></p>
-
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KieranWebDev&count_private=true&theme=tokyonight) -->
+![image](https://github.com/user-attachments/assets/fecf4ae6-5e10-4823-8828-4f15872f375e)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kieranwebdev&label=Profile%20views&color=0e75b6&style=flat" alt="kieranwebdev" /> </p>
+> _Since my contributions are private, I’m happy to discuss my work in more detail!_
 
+---
 
+## 📌 Featured Projects
+🔹 **[Project Name](#)** – (Brief description of impact, stack, and challenges solved)  
+🔹 **[Project Name](#)** – (Brief description of impact, stack, and challenges solved)  
+🔹 **[Project Name](#)** – (Brief description of impact, stack, and challenges solved)  
 
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kieranwebdev&show_icons=true&locale=en&layout=compact" alt="kieranwebdev" /></p> -->
+💡 _Want to see more? Check out my [Portfolio](#) (Coming Soon)._
 
+---
 
+## 🛠️ Tech Stack
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
+![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)  
+![Golang](https://img.shields.io/badge/Golang-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)  
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)  
 
+---
 
+## 🤝 Connect with Me
+📌 **[LinkedIn](https://linkedin.com/in/kieran-gill)**  
+📌 **[Portfolio (Coming Soon)](#)**  
+📌 **[Email](mailto:kieran.gill456@gmail.com)**  
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KieranWebDev)](https://github.com/anuraghazra/github-readme-stats) -->
-
-
-
-
-<!-- **KieranWebDev/KieranWebDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
