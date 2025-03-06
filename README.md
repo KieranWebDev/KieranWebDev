@@ -53,7 +53,7 @@ _(Note: The full version is more advanced and not publicly accessible.)_
 🔹 **Untrodden Travel App** – A **collaborative final project** from School of Code that helps travelers **discover and plan trips to lesser-known destinations**. Built with Next.js, Node.js, and PostgreSQL.  
 🔗 [**GitHub Repo:**](https://github.com/SchoolOfCode/final-project_front-end-untrodden)  
 
-🔹 **Devfinderr** –A simple, fun app I made over a year ago. Users can search for their own and anybody's github user info
+🔹 **Devfinderr** –A simple, fun app I made over a year ago. Users can search for their own and anybody's github user info.
 🔗 [**Live Demo:**](https://kieran-gill-devfinder-ts.vercel.app/) 
 
 <!-- 💡 _Want to see more? Check out my [Portfolio](#) (Coming Soon)._ -->
