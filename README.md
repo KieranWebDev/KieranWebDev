@@ -45,16 +45,15 @@ Here's a snapshot of my GitLab contributions over the past year:
 🔗 **Try the free (basic) version**: [Essential Cyber Assessment](https://cpb.ngo/essential-cyberassessment)  
 _(Note: The full version is more advanced and not publicly accessible.)_  
 
-🔹 **[The Planets](#)** – A full-stack SPA where users can explore and learn about planets in the Solar System. Built with React, TypeScript, and Supabase.  
+🔹 **The Planets** – A full-stack SPA where users can explore and learn about planets in the Solar System. Built with React, TypeScript, and Supabase.  
 🔗 **Live Demo:** [Coming Soon]  
 🔗 [**GitHub Repo:**](https://github.com/KieranWebDev/ThePlanets-TypeScript)
 
-🔹 **[Project Name](#)** – (One-line description of impact & tech stack)  
-🔗 [**Live Demo:**] [Coming Soon]  
-🔗 [**GitHub Repo:**](https://github.com/KieranWebDev/ThePlanets-TypeScript)
+🔹 **Untrodden Travel App** – A **collaborative final project** from School of Code that helps travelers **discover and plan trips to lesser-known destinations**. Built with Next.js, Node.js, and PostgreSQL.  
+🔗 [**GitHub Repo:**] (https://github.com/SchoolOfCode/final-project_front-end-untrodden)  
 
 
-💡 _Want to see more? Check out my [Portfolio](#) (Coming Soon)._
+<!-- 💡 _Want to see more? Check out my [Portfolio](#) (Coming Soon)._ -->
 
 ---
 
