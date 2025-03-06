@@ -29,7 +29,7 @@ _(Note: The full version is more advanced and not publicly accessible.)_
 
 
 **💡 Proof of Activity:**  
-Here's a snapshot of my GitLab contributions over the past year as well as my merged pull requests:
+Here’s a snapshot of my GitLab contributions over the past year at my current job, including my merged pull requests:
 
 ![image](https://github.com/user-attachments/assets/fecf4ae6-5e10-4823-8828-4f15872f375e)
 ![image](https://github.com/user-attachments/assets/0a6b6645-b984-488a-a7b6-e475862c6437)
