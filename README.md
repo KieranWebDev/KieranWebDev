@@ -4,7 +4,7 @@ Self-driven **Full Stack Developer** with a **frontend focus** and growing backe
 
 Currently, I'm working at **CyberPeace Institute** as the **sole full-time developer** for a platform that **connects NGOs with cybersecurity experts**. My role spans both frontend and backend, implementing new features, improving UX, and optimizing performance.
 
-📌 **[View My CV]([YOUR_CV_LINK_HERE](https://drive.google.com/file/d/1xM3Kk3o0LxHKLPxYnmQDtl8BB5aQe0jT/view?pli=1))**  
+📌 **[View My CV](https://drive.google.com/file/d/1xM3Kk3o0LxHKLPxYnmQDtl8BB5aQe0jT/view?pli=1)**  
 
 ---
 
@@ -81,5 +81,5 @@ _(Note: The full version is more advanced and not publicly accessible.)_
 📌 **[LinkedIn](https://linkedin.com/in/kieran-gill)**  
 📌 **[Portfolio (Coming Soon)](#)**  
 📌 **[Email](mailto:kieran.gill456@gmail.com)**  
-📌 **[View My CV]([YOUR_CV_LINK_HERE](https://drive.google.com/file/d/1xM3Kk3o0LxHKLPxYnmQDtl8BB5aQe0jT/view?pli=1))**  
+📌 **[View My CV](https://drive.google.com/file/d/1xM3Kk3o0LxHKLPxYnmQDtl8BB5aQe0jT/view?pli=1)**  
 
